@@ -1,2 +1,2 @@
 # Art-Design
-this is about art &amp; design
+this is about art &amp; design.
